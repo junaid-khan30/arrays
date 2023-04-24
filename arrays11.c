@@ -16,3 +16,5 @@ int main()
 }
 //HERE #define is macro value and here we can predefined it as we do with #include 
 // and here we predefined N value as 10
+
+//and if you extend loop greater than 10 here , you will get garbage value 
